@@ -94,6 +94,8 @@ with st.expander("ℹ️ Setup instructions", expanded=False):
     )
 
     st.markdown("")
+    
+    st.form_submit_button()
 
 
 st.write("")
